@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://represent.opennorth.ca/
 common:
+  - type: DomainSecurity
+    url: security/represent-by-open-north-domain-security.yml
   - type: Website
     url: https://represent.opennorth.ca/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://opennorth.ca/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
