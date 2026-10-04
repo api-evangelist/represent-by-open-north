@@ -39,7 +39,6 @@ apis:
   - name: Represent by Open North
     description: "Find Canadian Government Representatives"
     humanURL: https://represent.opennorth.ca/
-    baseURL: https://represent.opennorth.ca/
     tags:
       - Government
     properties:
