@@ -2,21 +2,21 @@
   "repo": "represent-by-open-north",
   "feeds": [
     {
-      "source": "https://github.com/public-apis/public-apis",
-      "feed_url": "https://github.com/public-apis/public-apis",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://opennorth.ca/feed/",
       "feed_url": "https://opennorth.ca/feed/",
       "title": "",
       "saved": 0,
       "method": "feed"
+    },
+    {
+      "source": "https://github.com/public-apis/public-apis",
+      "feed_url": "https://github.com/public-apis/public-apis",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 10,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
